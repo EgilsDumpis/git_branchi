@@ -1,0 +1,1 @@
+pirmā rindiņa lokāli
