@@ -1,4 +1,3 @@
 Galvenais zars
 Lokālā rindiņa pēc attālinātās
-Veiktas izmaiņas brančam
-Izmaiņas pēc -u HEAD
+Testējam kas notiek ja esošu failu izmaina tikai attālināti
