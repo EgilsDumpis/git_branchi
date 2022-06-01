@@ -1,2 +1,3 @@
 Galvenais zars
 Lokālā rindiņa pēc attālinātās
+Testējam kas notiek ja esošu failu izmaina tikai attālināti
