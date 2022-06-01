@@ -1,0 +1,1 @@
+Attālināti pievienota rindiņa
