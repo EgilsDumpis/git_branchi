@@ -1,2 +1,4 @@
 Galvenais zars
 Lokālā rindiņa pēc attālinātās
+Veiktas izmaiņas brančam
+Izmaiņas pēc -u HEAD
